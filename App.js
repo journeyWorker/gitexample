@@ -56,7 +56,9 @@ const App: () => React$Node = () => {
               </Text>
             </View>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug-first-change</Text>
+              <Text style={styles.sectionTitle}>
+                Debug-first-change-sentry!
+              </Text>
               <Text style={styles.sectionDescription}>
                 <DebugInstructions />
               </Text>
